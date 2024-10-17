@@ -2,4 +2,5 @@
 This is the "Landing Page" project of Foudations course.
 
 Status: In-Progress
-Progress: Third, fourth and footer section done.
+
+Progress: First, second, fourth and footer section done.
